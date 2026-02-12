@@ -1,4 +1,4 @@
-import { createTailTip } from "tail-tip";
+import { createTailTip } from "@tecworld/tail-tip";
 
 window.addEventListener("load", () => {
   const mount = document.getElementById("content-editor");
